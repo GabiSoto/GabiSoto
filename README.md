@@ -1,16 +1,3 @@
-[
-
-](https://github.com/GabiSoto)
-
-
-[
-
-](https://github.com/GabiSoto)  
-[
-
-](https://linkedin.com)
-
-
 🚀 About Me
 
 Hi, I'm Gabriel, Full-Stack Web Developer based in Neuquén, Argentina 🇦🇷.
@@ -30,13 +17,5 @@ I love building modern web applications, optimizing developer environments, and 
 🛠️ Tech Stack
 📊 GitHub Stats
 
-[
-
-](https://github.com/GabiSoto)
-
-
-[
-
-](https://github.com/GabiSoto)
 
 Built with passion · Gabriel Soto
