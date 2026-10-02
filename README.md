@@ -1,16 +1,42 @@
-## Hi there 👋
+[
 
-<!--
-**GabiSoto/GabiSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](https://github.com/GabiSoto)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[
+
+](https://github.com/GabiSoto)  
+[
+
+](https://linkedin.com)
+
+
+🚀 About Me
+
+Hi, I'm Gabriel, Full-Stack Web Developer based in Neuquén, Argentina 🇦🇷.
+I love building modern web applications, optimizing developer environments, and crafting great user experiences.
+
+    💻 Tech Focus: Building full-stack web applications with TypeScript, React, Vite, Tailwind CSS, and Node.js.
+
+    🐧 Environment: Linux & Windows dual-boot enthusiast — terminal power user & hardware tweaking.
+
+    🎨 Projects & Interests: Web Development, Custom Interfaces, and Tech Explorations.
+
+    🌱 Currently learning: Advanced Full-Stack Architecture, State Management & Custom Hooks.
+
+    💬 Talk to me about: Web Development, Linux customization, PC Hardware, and Gaming.
+
+
+🛠️ Tech Stack
+📊 GitHub Stats
+
+[
+
+](https://github.com/GabiSoto)
+
+
+[
+
+](https://github.com/GabiSoto)
+
+Built with passion · Gabriel Soto
