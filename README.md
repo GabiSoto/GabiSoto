@@ -1,13 +1,10 @@
-Gabriel Soto
-Full-Stack Web Developer
+# Gabriel Soto
+### Full-Stack Web Developer
 
-[
+[GitHub](https://github.com/GabiSoto) | [LinkedIn](https://linkedin.com)
 
-](https://github.com/GabiSoto)
-  
-[
 
-](https://linkedin.com)
+
 🚀 About Me
 
 Hi, I'm Gabriel, Full-Stack Web Developer based in Neuquén, Argentina 🇦🇷.
@@ -23,7 +20,14 @@ I love building modern web applications, optimizing developer environments, and 
 
     💬 Talk to me about: Web Development, Linux customization, PC Hardware, and Gaming.
 
+🛠 Tech Stack
 
-🛠️️ Tech Stack
+    Languages: JavaScript, TypeScript, HTML5, CSS3
+
+    Frontend: React, Vite, Tailwind CSS
+
+    Backend & Database: Node.js, Express, PostgreSQL
+
+    Tools & OS: Git, GitHub, VS Code, Ubuntu Linux, Windows
 
 Built with passion · Gabriel Soto
